@@ -1,0 +1,13 @@
+*.beam
+*.dump
+ebin/*.app
+test/temp
+.eunit/
+.*.swp
+logs
+log
+deps
+.vagrant
+db
+.rebar
+
